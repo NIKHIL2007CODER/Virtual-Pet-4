@@ -17,12 +17,12 @@
         leftrunningdog = loadImage("images/runningLeft.png");
         
         // other activities
-        vaccination = loadImage("images/vaccination.jpg");
+       
         dogVaccination = loadImage("images/dogVaccination.png");
         
         //object
         dogFoodStock = loadImage("images/Food Stock.png");
-        injection = loadImage("images/injection.png");
+       
         milk = loadImage("images/milk.png");
 
         // places
